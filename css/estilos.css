@@ -1,0 +1,71 @@
+
+
+/* Cabecera */
+
+
+
+
+.btn-menu:hover {
+	background: #4d92df;
+	color: white;
+}
+
+.boton-menu {
+	border-radius: 3px;
+	padding: 10px 40px 0px 40px;
+	background-color: #4d92df;
+	color: white;
+	text-decoration: none;
+	margin: 30px;
+	font-size: 16px;
+}
+
+
+.btn-cerrar:hover {
+	background: #c6717f;
+	color: white;
+}
+
+.boton-cerrar {
+	border-radius: 3px;
+	padding: 10px 40px 0px 40px;
+	background-color: #D0021B;
+	color: white;
+	text-decoration: none;
+	padding: 10px 30px 10px 30px; 
+	font-size: 16px;
+}
+
+
+.clic{
+	font-size: 100px;
+	background-color: #4d92df;
+	color:white;
+	text-decoration: none;
+	padding: 30px 90px 30px 90px;
+	text-align: center;
+	border-radius: 15px;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	float: right;
+	margin-top: -800px;
+	margin-right: 250px;
+	
+
+
+
+}
+
+.button-container{
+	display:inline-block;
+	position:relative;
+	}
+
+
+
+.img-hero {
+	width: 100%;
+	display: inline; 
+
+}
+/* Esta sección es el nav-cnspd pagina web */
+
